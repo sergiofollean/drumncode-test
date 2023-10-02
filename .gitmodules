@@ -1,0 +1,3 @@
+[submodule "frontend/breeze-next"]
+	path = frontend/breeze-next
+	url = https://github.com/laravel/breeze-next.git
