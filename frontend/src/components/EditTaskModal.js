@@ -93,7 +93,7 @@ const EditTaskModal = ({ isOpen, onClose, onTaskUpdated, task }) => {
                                         Edit task {title}
                                     </Dialog.Title>
                                 </div>
-                                {/* Form with input title, textarea description */}
+                                
                                 <div className="flex flex-wrap mb-6 gap-5">
                                     <div className="mb-6 md:mb-0">
                                         <label className="block text-sm font-medium leading-6 text-gray-900">
